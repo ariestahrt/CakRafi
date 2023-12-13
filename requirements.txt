@@ -1,0 +1,5 @@
+matplotlib
+PyQt5
+opencv-python
+pipwin
+cairosvg

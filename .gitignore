@@ -7,6 +7,5 @@ experiments/*
 build
 dist
 main.spec
-*.txt
 testing*
 temp
