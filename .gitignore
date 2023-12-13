@@ -1,0 +1,12 @@
+__pycache__
+boards/*
+experiments/*
+# *.png
+*.pkl
+*.bin
+build
+dist
+main.spec
+*.txt
+testing*
+temp
